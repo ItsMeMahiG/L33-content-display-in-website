@@ -1,0 +1,82 @@
+body {
+
+    margin: 0;
+
+    font-size: 16px;
+
+    font-family: "Lato", sans-serif;
+
+    font-weight: 400;
+
+    background-color: #F9CABC;
+
+}
+
+.pimg3 {
+
+    background-image: url('manipal.jpg');
+
+    height: 400px;
+
+    position: relative;
+
+    opacity: 0.5;
+
+    background-position: center;
+
+    background-size: contain;
+
+    background-repeat: no-repeat;
+
+    background-attachment: fixed;
+
+
+}
+section {
+
+    text-align: center;
+
+    padding: 50px 80px;
+
+    background-color: #282e34;
+
+    color: #ddd;
+
+}
+
+.ptext {
+
+    position: absolute;
+
+    top: 50%;
+
+    width: 100%;
+
+    text-align: center;
+
+    font-size: 27px;
+
+    letter-spacing: 8px;
+
+    text-transform: uppercase;
+
+}
+
+.ptext .border {
+
+    background-color: transparent;
+
+    color: #ffffff;
+
+    padding: 20px;
+
+}
+h1 {
+
+    font-family: 'Bungee Inline', cursive;
+
+    font-size: 30px;
+
+    font-weight: 100;
+
+}
